@@ -5,5 +5,3 @@ ENV N8N_HOST=0.0.0.0
 ENV N8N_PROTOCOL=https
 
 EXPOSE 5678
-
-CMD ["node", "/usr/local/lib/node_modules/n8n/bin/n8n"]
