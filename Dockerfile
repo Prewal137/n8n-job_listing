@@ -1,6 +1,11 @@
 FROM n8nio/n8n
 
-ENV N8N_HOST=0.0.0.0
-ENV N8N_PORT=10000
+USER root
 
-EXPOSE 10000
+# Install TinyFish custom node
+RUN npm install -g n8n-nodes-tinyfish
+
+# Set custom extensions path
+ENV N8N_CUSTOM_EXTENSIONS=/usr/local/lib/node_modules
+
+USER node
