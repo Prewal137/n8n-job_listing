@@ -3,6 +3,11 @@
 An automated job aggregation system that collects engineering job listings from multiple platforms and delivers them directly to your inbox — powered by AI and workflow automation.
 
 ---
+## 🧠 Workflow Architecture
+
+<p align="center">
+  <img src="./assets/workflow.png" alt="Workflow Diagram" width="800"/>
+</p>
 
 ## ✨ Features
 
