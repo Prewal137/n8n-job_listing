@@ -6,7 +6,7 @@ An automated job aggregation system that collects engineering job listings from 
 ## 🧠 Workflow Architecture
 
 <p align="center">
-  <img src="./assets/workflow.png" alt="Workflow Diagram" width="800"/>
+  <img src="assets/workflow.png" alt="Workflow Diagram" width="800"/>
 </p>
 
 ## ✨ Features
