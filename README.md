@@ -93,12 +93,12 @@ Apply: Link
 
 ## 📁 Project Structure
 
-
+```
 .
 ├── Dockerfile
-├── workflow.json (optional backup)
+├── workflow.json  
 └── README.md
-
+```
 
 ---
 
@@ -108,12 +108,16 @@ Apply: Link
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
-## ⭐ Support
+## 📜 License
 
-If you found this useful, consider giving it a star ⭐
+- **App Code:** MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files, to deal in the Software
+without restriction, including without limitation the rights to use, copy,
+modify, merge, publish, distribute, sublicense, and/or sell copies.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
